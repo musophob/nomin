@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Toggle Minified Source Indexing",
+        "command": "nomin",
+    },
+]
